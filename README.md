@@ -8,6 +8,9 @@ Kim young hwan, Department of Information System, wizde20@hanyang.ac.kr
 
 Lee ji yun, Department of Information System, dlwldbs9764@naver.com
 
+#Content
+--------
+
 Title : MetaKicks - Virtual Price Tracking LG Styler ShoeCase
 
 Proposal : As the culture of collecting expensive designer, luxury
