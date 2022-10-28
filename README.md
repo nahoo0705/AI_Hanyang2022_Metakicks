@@ -8,6 +8,9 @@ Kim young hwan, Department of Information System, wizde20@hanyang.ac.kr
 
 Lee ji yun, Department of Information System, dlwldbs9764@naver.com
 
+#Notion
+-------
+https://www.notion.so/Metakicks-c0cb99b6b47545e1862f2aefcabbd06e
 
 #Content
 --------
