@@ -11,9 +11,11 @@ Lee ji yun, Department of Information System, dlwldbs9764@naver.com
 #Content
 --------
 
-Title : MetaKicks - Virtual Price Tracking LG Styler ShoeCase
+## 1. Title 
+>MetaKicks - Virtual Price Tracking LG Styler ShoeCase
 
-Proposal : As the culture of collecting expensive designer, luxury
+## 2. Proposal
+>As the culture of collecting expensive designer, luxury 
 and limited-edition sneakers grows among the MZ generation –
 Millennials and Gen Z – LG’s internal research found that these
 ‘sneakerheads’ would benefit greatly from a solution that not only
